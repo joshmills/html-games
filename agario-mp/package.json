@@ -1,0 +1,9 @@
+{
+  "name": "agario-mp",
+  "version": "0.0.1",
+  "description": "Agario Clone in P5.js",
+  "dependencies": {
+    "express": "^4.10.2",
+    "socket.io": "^1.7.2"
+  }
+}
